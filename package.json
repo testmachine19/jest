@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/testmachine19/jest#readme",
   "devDependencies": {
+    "babel-plugin-istanbul": "^6.1.1",
     "jest": "^29.7.0"
   }
 }
